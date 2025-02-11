@@ -4,12 +4,13 @@
         <file>Sounds/Air Force Song.mp3</file>
         <file>Sounds/Assembly.mp3</file>
         <file>Sounds/Bonk.mp3</file>
-        <file>Sounds/Cadence (BCT).mp3</file>
         <file>Sounds/First Call.mp3</file>
         <file>Sounds/National Anthem.mp3</file>
         <file>Sounds/Retreat.mp3</file>
         <file>Sounds/To the Colors.mp3</file>
         <file>Sounds/Reveille and To the Colors.mp3</file>
         <file>Sounds/Taps.mp3</file>
+        <file>Sounds/6-8 Drum Cadence, 4 minutes.mp3</file>
+        <file>Sounds/Cadence (BCT), 8 minutes.mp3</file>
     </qresource>
 </RCC>

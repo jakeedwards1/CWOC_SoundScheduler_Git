@@ -18,7 +18,7 @@
     <item>
      <widget class="QStackedWidget" name="stackedWidget">
       <property name="currentIndex">
-       <number>0</number>
+       <number>3</number>
       </property>
       <widget class="QWidget" name="HomePage">
        <widget class="QLabel" name="CurrentDate_Label">
@@ -89,12 +89,12 @@
         </item>
         <item>
          <property name="text">
-          <string>6-8 Drum Cadence, 30 minutes</string>
+          <string>6-8 Drum Cadence, 4 minutes</string>
          </property>
         </item>
         <item>
          <property name="text">
-          <string>Cadence (BCT)</string>
+          <string>Cadence (BCT), 8 minutes</string>
          </property>
         </item>
         <item>
@@ -383,7 +383,7 @@
         </item>
         <item>
          <property name="text">
-          <string>6-8 Drum Cadence, 30 minutes</string>
+          <string>6-8 Drum Cadence, 4 minutes</string>
          </property>
         </item>
         <item>
@@ -393,7 +393,7 @@
         </item>
         <item>
          <property name="text">
-          <string>Cadence (BCT)</string>
+          <string>Cadence (BCT), 8 minutes</string>
          </property>
         </item>
         <item>
@@ -681,27 +681,7 @@
         </property>
        </widget>
       </widget>
-      <widget class="QWidget" name="SoundFiles">
-       <widget class="QLabel" name="label_2">
-        <property name="geometry">
-         <rect>
-          <x>70</x>
-          <y>20</y>
-          <width>211</width>
-          <height>21</height>
-         </rect>
-        </property>
-        <property name="frameShape">
-         <enum>QFrame::Shape::Box</enum>
-        </property>
-        <property name="text">
-         <string>Sound Files</string>
-        </property>
-        <property name="alignment">
-         <set>Qt::AlignmentFlag::AlignCenter</set>
-        </property>
-       </widget>
-      </widget>
+      <widget class="QWidget" name="SoundFiles"/>
      </widget>
     </item>
    </layout>
@@ -713,7 +693,7 @@
      <x>0</x>
      <y>0</y>
      <width>629</width>
-     <height>21</height>
+     <height>17</height>
     </rect>
    </property>
    <widget class="QMenu" name="menuCWOC_Sound_Scheduler">
@@ -723,7 +703,6 @@
     <addaction name="actionHome"/>
     <addaction name="actionCalendar_View"/>
     <addaction name="actionTemplates"/>
-    <addaction name="actionSound_Files"/>
    </widget>
    <addaction name="menuCWOC_Sound_Scheduler"/>
   </widget>

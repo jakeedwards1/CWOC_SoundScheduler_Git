@@ -435,6 +435,12 @@ void MainWindow::closeEvent(QCloseEvent *event) {
         dateTemplateDataList.append(dateEntry);
     }
 
+    // qDebug() << "Saving dateTemplateList with" << dateTemplateList.size() << "entries";
+    // for (const auto &entry : dateTemplateList) {
+    //     qDebug() << "Saving date:" << entry.date.toString() << "Template:" << entry.templateName;
+    // }
+
+
     // Save the date template list
     calendarList.setValue("DateTemplates", dateTemplateDataList);
 
@@ -495,6 +501,12 @@ void MainWindow::restoreState() {
 
         dateTemplateList.append(entry);
     }
+    // qDebug() << "Restoring dateTemplateList with" << dateTemplateDataList.size() << "entries";
+    // for (const QVariant &dateEntryVariant : dateTemplateDataList) {
+    //     QVariantMap dateEntry = dateEntryVariant.toMap();
+    //     qDebug() << "Restoring date:" << dateEntry["date"].toString() << "Template:" << dateEntry["templateName"].toString();
+    // }
+
 
     updateCalendar();  // Refresh UI with restored data
 }
@@ -754,7 +766,7 @@ void MainWindow::updateDateTemplateList(){
 
 void MainWindow::refreshCalendar(){
     QDate currentDate = QDate::currentDate();
-    if(dateTemplateList.first().date != currentDate){
+    if(dateTemplateList.first().date < currentDate){
         dateTemplateList.removeFirst();
         QDate nextDate = currentDate.addDays(30);
         for(Template currTemplate : allTemplates){
