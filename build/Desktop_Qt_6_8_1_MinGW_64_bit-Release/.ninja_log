@@ -1,0 +1,12 @@
+# ninja log v6
+13	2160	7610133900284248	CWOC_SoundScheduler_autogen/timestamp	19e04e42ec9defd2
+13	2160	7610133900284248	CWOC_SoundScheduler_autogen/mocs_compilation.cpp	19e04e42ec9defd2
+13	2160	7610133900284248	C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CWOC_SoundScheduler_autogen/timestamp	19e04e42ec9defd2
+13	2160	7610133900284248	C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CWOC_SoundScheduler_autogen/mocs_compilation.cpp	19e04e42ec9defd2
+2167	5765	7610133937031214	CWOC_SoundScheduler_autogen/EWIEGA46WW/qrc_Sound_Files_Folder.cpp	359f7cdd9c734dad
+2167	5765	7610133937031214	C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CWOC_SoundScheduler_autogen/EWIEGA46WW/qrc_Sound_Files_Folder.cpp	359f7cdd9c734dad
+5773	9610	7610133937404162	CMakeFiles/CWOC_SoundScheduler.dir/main.cpp.obj	2fcaeb1e3046187e
+5766	10038	7610133937334024	CMakeFiles/CWOC_SoundScheduler.dir/CWOC_SoundScheduler_autogen/mocs_compilation.cpp.obj	f9a9843644c255
+5780	14968	7610133937474008	CMakeFiles/CWOC_SoundScheduler.dir/mainwindow.cpp.obj	f42122ad98892531
+5787	168046	7610133937548862	CMakeFiles/CWOC_SoundScheduler.dir/CWOC_SoundScheduler_autogen/EWIEGA46WW/qrc_Sound_Files_Folder.cpp.obj	2cdd67366a8584eb
+168046	169407	7610135560138963	CWOC_SoundScheduler.exe	fc331e560c94383f

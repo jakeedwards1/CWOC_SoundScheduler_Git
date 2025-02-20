@@ -1,0 +1,36 @@
+{
+	"BUILD_DIR" : "C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CWOC_SoundScheduler_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CWOC_SoundScheduler_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler/Sounds/6-8 Drum Cadence, 4 minutes.mp3",
+		"C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler/Sounds/National Anthem.mp3",
+		"C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler/Sounds/Taps.mp3",
+		"C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler/Sounds/Assembly.mp3",
+		"C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler/Sounds/Cadence (BCT), 8 minutes.mp3",
+		"C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler/Sounds/Reveille and To the Colors.mp3",
+		"C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler/Sounds/Bonk.mp3",
+		"C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler/Sounds/Air Force Song.mp3",
+		"C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler/Sounds/Retreat.mp3",
+		"C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler/Sounds/To the Colors.mp3",
+		"C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler/Sounds/First Call.mp3",
+		"C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler/Sounds/ACQ.mp3"
+	],
+	"LOCK_FILE" : "C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CMakeFiles/CWOC_SoundScheduler_autogen.dir/AutoRcc_Sound_Files_Folder_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "Sound_Files_Folder" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Sound_Files_Folder.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.8.1/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CMakeFiles/CWOC_SoundScheduler_autogen.dir/AutoRcc_Sound_Files_Folder_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/Jake.Edwards/OneDrive - afacademy.af.edu/CWOC/CWOC_SoundScheduler/Sound_Files_Folder.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
